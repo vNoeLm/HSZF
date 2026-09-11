@@ -1,0 +1,14 @@
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\bin\Debug\net10.0\TodoManager.exe
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\bin\Debug\net10.0\TodoManager.deps.json
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\bin\Debug\net10.0\TodoManager.runtimeconfig.json
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\bin\Debug\net10.0\TodoManager.dll
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\bin\Debug\net10.0\TodoManager.pdb
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\TodoManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\TodoManager.AssemblyInfoInputs.cache
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\TodoManager.AssemblyInfo.cs
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\TodoManager.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\TodoManager.dll
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\refint\TodoManager.dll
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\TodoManager.pdb
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\TodoManager.genruntimeconfig.cache
+C:\Users\Noel\Desktop\HSZF\HSZF\Week 1\TodoManager\obj\Debug\net10.0\ref\TodoManager.dll
