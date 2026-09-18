@@ -51,15 +51,72 @@ namespace MovieManager
         {
             if (File.Exists("MoviesSaved.json"))
             {
-                Console.WriteLine("Jelenlegi Filmek: \nCím || Hossz || Megjelenés");
+                OrderMoviesByLength();
+                Console.WriteLine("Jelenlegi Filmek(Hossz szerint novekv!): \nCím || Hossz || Megjelenés");
                 string json = File.ReadAllText("MoviesSaved.json");
                 movieList = JsonSerializer.Deserialize<List<Movie>>(json);
                 foreach (Movie movie in movieList)
                 {
                     Console.WriteLine($"{movie.Title} || {movie.Length} || {movie.ReleaseDate}");
                 }
+
+                MoviesAfter2000();
+                MoviesLongerThan2Hours();
+                IsThereShortMovie();
+                AllLongerThanHalfHour();
+
             }
             GetMovies();
+        }
+
+        public void OrderMoviesByLength()
+        {
+            movieList.OrderBy(x => x.Length);
+        }
+
+        public void MoviesAfter2000()
+        {
+            var lista = movieList.Where(x => x.ReleaseDate > 2000);
+            Console.WriteLine("2000 utáni filmek: ");
+            foreach (Movie movie in lista)
+            {
+                Console.WriteLine($"{movie.Title}");
+            }
+        }
+
+        public void MoviesLongerThan2Hours()
+        {
+            var lista = movieList.Where(x => (x.Length / 60) > 2);
+            Console.WriteLine("2 Oranal hosszabb filmek: ");
+            foreach (Movie movie in lista)
+            {
+                Console.WriteLine($"{movie.Title}");
+            }
+        }
+
+        public void IsThereShortMovie()
+        {
+            if (movieList.Any(x => (x.Length / 60) < 1))
+            {
+                Console.WriteLine("Van 1 oranal rovidebb film");
+            }
+            else
+            {
+                Console.WriteLine("Nincs 1 oranal rovidebb film");
+            }
+            
+        }
+
+        public void AllLongerThanHalfHour()
+        {
+            if (movieList.All(x => x.Length > 30))
+            {
+                Console.WriteLine("Fel oranal minden film hosszabb");
+            }
+            else
+            {
+                Console.WriteLine("Fel oranal nem minden film hosszabb");
+            }
         }
     }
 }
