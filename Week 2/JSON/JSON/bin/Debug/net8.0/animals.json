@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Name": "Bodri",
+    "Type": "Labrador",
+    "Age": 5
+  },
+  {
+    "Name": "Morzsi",
+    "Type": "Beagle",
+    "Age": 3
+  },
+  {
+    "Name": "Luna",
+    "Type": "Border Collie",
+    "Age": 4
+  },
+  {
+    "Name": "Max",
+    "Type": "Német juhászkutya",
+    "Age": 7
+  },
+  {
+    "Name": "Zsebi",
+    "Type": "Tacskó",
+    "Age": 2
+  }
+]
