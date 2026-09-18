@@ -10,93 +10,133 @@ namespace MovieManager
     internal class MovieManager
     {
         List<Movie> movieList = new List<Movie>();
+        string[] commands = ["add","save","list","order","op","exit"];
         public void GetMovies()
         {
             while (true)
             {
-                Console.Write("Szeretnél filmet felvinni?: ");
+                Console.Clear();
+
+                Console.WriteLine("mit Szeretnel csinalni?: ");
+                foreach (string com in commands)
+                {
+                    Console.WriteLine(com);
+                }
+               
                 string command = Console.ReadLine();
                 
                 switch (command)
                 {
-                    case "igen":
+                    case "add":
                         AddMovie();
                         break;
-                    case "nem":
+                    case "save":
                         SaveToJson();
-                        return;
+                        WaitAndReturn();
+                        break;
+                    case "list":
+                        ListMovies();
+                        WaitAndReturn();
+                        break;
+                    case "order":
+                        OrderMoviesByLength();
+                        WaitAndReturn();
+                        break;
+                    case "op":
+                        ExecuteOp();
+                        WaitAndReturn();
+                        break;
+                    case "exit":
+                        Environment.Exit(0);
+                        break;
                 }
 
             }
         }
 
+        void WaitAndReturn()
+        {
+            Console.WriteLine("Nyomj meg egy gombot a visszalepeshez");
+            Console.ReadKey();
+        }
+
         public void AddMovie()
         {
-            Console.Write($"Add meg a film címét: ");
-            string name = Console.ReadLine();
-            Console.Write($"Add meg a film Hosszát: ");
-            int length = Convert.ToInt32(Console.ReadLine());
-            Console.Write($"Add meg a film Megjelenési évét(1999,2005 stb): ");
-            int release = Convert.ToInt32(Console.ReadLine());
+            while (true)
+            {
+                Console.Clear();
 
-            movieList.Add(new Movie(name, length, release));
+                Console.WriteLine("Uj film hozzaadasa");
+                Console.Write($"Add meg a film címét: ");
+                string name = Console.ReadLine();
+                Console.Write($"Add meg a film Hosszát: ");
+                int length = Convert.ToInt32(Console.ReadLine());
+                Console.Write($"Add meg a film Megjelenési évét(1999,2005 stb): ");
+                int release = Convert.ToInt32(Console.ReadLine());
+
+                movieList.Add(new Movie(name, length, release));
+
+                Console.Write("Szeretnel meg filmet hozzaadni?: ");
+                string command = Console.ReadLine();
+                if (command != "igen")
+                {
+                    break;
+                }
+            }
         }
         public void SaveToJson()
         {
             string jsonSave = JsonSerializer.Serialize(movieList);
             File.WriteAllText("MoviesSaved.json", jsonSave);
+            Console.WriteLine("Saved!");
         }
 
         public void CheckForMovies()
         {
             if (File.Exists("MoviesSaved.json"))
             {
-                OrderMoviesByLength();
-                Console.WriteLine("Jelenlegi Filmek(Hossz szerint novekv!): \nCím || Hossz || Megjelenés");
                 string json = File.ReadAllText("MoviesSaved.json");
                 movieList = JsonSerializer.Deserialize<List<Movie>>(json);
-                foreach (Movie movie in movieList)
-                {
-                    Console.WriteLine($"{movie.Title} || {movie.Length} || {movie.ReleaseDate}");
-                }
-
-                MoviesAfter2000();
-                MoviesLongerThan2Hours();
-                IsThereShortMovie();
-                AllLongerThanHalfHour();
-
+                ListMovies();
+                WaitAndReturn();
             }
             GetMovies();
         }
 
+        public void ListMovies()
+        {
+            Console.Clear();
+            Console.WriteLine("Jelenlegi Filmek: \nCím || Hossz || Megjelenés");
+            foreach (Movie movie in movieList)
+            {
+                Console.WriteLine($"{movie.Title} || {movie.Length} || {movie.ReleaseDate}");
+            }
+        }
+
         public void OrderMoviesByLength()
         {
-            movieList.OrderBy(x => x.Length);
+            movieList = movieList.OrderBy(x => x.Length).ToList();
+            ListMovies();
         }
 
-        public void MoviesAfter2000()
+        public void ExecuteOp()
         {
-            var lista = movieList.Where(x => x.ReleaseDate > 2000);
+            Console.Clear();
             Console.WriteLine("2000 utáni filmek: ");
-            foreach (Movie movie in lista)
+            foreach (var movie in movieList.Where(x => x.ReleaseDate > 2000))
             {
-                Console.WriteLine($"{movie.Title}");
+                Console.WriteLine(movie.Title);
             }
-        }
+            Console.WriteLine();
 
-        public void MoviesLongerThan2Hours()
-        {
-            var lista = movieList.Where(x => (x.Length / 60) > 2);
             Console.WriteLine("2 Oranal hosszabb filmek: ");
-            foreach (Movie movie in lista)
+            foreach (var movie in movieList.Where(x => x.Length > 120))
             {
-                Console.WriteLine($"{movie.Title}");
+                Console.WriteLine(movie.Title);
             }
-        }
+            Console.WriteLine();
 
-        public void IsThereShortMovie()
-        {
-            if (movieList.Any(x => (x.Length / 60) < 1))
+            if (movieList.Any(x => x.Length < 60))
             {
                 Console.WriteLine("Van 1 oranal rovidebb film");
             }
@@ -104,11 +144,8 @@ namespace MovieManager
             {
                 Console.WriteLine("Nincs 1 oranal rovidebb film");
             }
-            
-        }
+            Console.WriteLine();
 
-        public void AllLongerThanHalfHour()
-        {
             if (movieList.All(x => x.Length > 30))
             {
                 Console.WriteLine("Fel oranal minden film hosszabb");
@@ -116,6 +153,16 @@ namespace MovieManager
             else
             {
                 Console.WriteLine("Fel oranal nem minden film hosszabb");
+            }
+
+            var firstLongRecentMovie = movieList.FirstOrDefault(x => x.ReleaseDate > 2000 && x.Length > 120);
+            if (firstLongRecentMovie != null)
+            {
+                Console.WriteLine($"Az első 2000 utani 2 oranal hosszabb film: {firstLongRecentMovie.Title} ({firstLongRecentMovie.ReleaseDate}, {firstLongRecentMovie.Length} perc)");
+            }
+            else
+            {
+                Console.WriteLine("Nincs olyan film a listaban amely 2000 utan jelent meg es hosszabb 2 oranal.");
             }
         }
     }
