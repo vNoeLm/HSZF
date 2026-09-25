@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\DbTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D43619-0487-4E79-94C6-10D23B03FB96}|DbTest\\DbTest.csproj|c:\\users\\hallgato\\desktop\\orai\\hszf\\week 3\\dbtest\\dbtest\\workshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D43619-0487-4E79-94C6-10D23B03FB96}|DbTest\\DbTest.csproj|solutionrelative:dbtest\\workshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D43619-0487-4E79-94C6-10D23B03FB96}|DbTest\\DbTest.csproj|c:\\users\\hallgato\\desktop\\orai\\hszf\\week 3\\dbtest\\dbtest\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D43619-0487-4E79-94C6-10D23B03FB96}|DbTest\\DbTest.csproj|solutionrelative:dbtest\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D43619-0487-4E79-94C6-10D23B03FB96}|DbTest\\DbTest.csproj|c:\\users\\hallgato\\desktop\\orai\\hszf\\week 3\\dbtest\\dbtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D43619-0487-4E79-94C6-10D23B03FB96}|DbTest\\DbTest.csproj|solutionrelative:dbtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkshopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\DbTest\\DbTest\\WorkshopDBContext.cs",
+              "RelativeDocumentMoniker": "DbTest\\WorkshopDBContext.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\DbTest\\DbTest\\WorkshopDBContext.cs",
+              "RelativeToolTip": "DbTest\\WorkshopDBContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:10:16.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "work.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\DbTest\\DbTest\\work.cs",
+              "RelativeDocumentMoniker": "DbTest\\work.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\DbTest\\DbTest\\work.cs",
+              "RelativeToolTip": "DbTest\\work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:04:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\DbTest\\DbTest\\Program.cs",
+              "RelativeDocumentMoniker": "DbTest\\Program.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\DbTest\\DbTest\\Program.cs",
+              "RelativeToolTip": "DbTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:03:10.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
