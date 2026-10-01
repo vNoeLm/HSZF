@@ -50,7 +50,7 @@ new Workshop
 },
 new Workshop
 {
-   WorkshopId = 3,Registrations 
+   WorkshopId = 3,
    Title = "Unit teszteles",
    Topic = "Minosegbiztositas",
    Capacity = 8,

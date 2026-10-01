@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "Azure.Core/1.41.0": {
@@ -2843,23 +2843,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hallgato\\.nuget\\packages\\": {},
+    "C:\\Users\\Noel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\ClassTask\\ClassTask\\ClassTask.csproj",
+      "projectUniqueName": "C:\\Users\\Noel\\Desktop\\HSZF\\HSZF\\Week 3\\ClassTask\\ClassTask\\ClassTask.csproj",
       "projectName": "ClassTask",
-      "projectPath": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\ClassTask\\ClassTask\\ClassTask.csproj",
-      "packagesPath": "C:\\Users\\hallgato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hallgato\\Desktop\\orai\\HSZF\\Week 3\\ClassTask\\ClassTask\\obj\\",
+      "projectPath": "C:\\Users\\Noel\\Desktop\\HSZF\\HSZF\\Week 3\\ClassTask\\ClassTask\\ClassTask.csproj",
+      "packagesPath": "C:\\Users\\Noel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Noel\\Desktop\\HSZF\\HSZF\\Week 3\\ClassTask\\ClassTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hallgato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Noel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2873,6 +2873,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -2887,10 +2888,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
@@ -2926,7 +2928,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

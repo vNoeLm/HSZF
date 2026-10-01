@@ -8,66 +8,112 @@ using System.Threading.Tasks;
 
 namespace ClassTask
 {
-        public class Director
+    public class Director
+    {
+
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int DirectorId { get; set; }
+
+        [Required]
+        [StringLength(40)]
+        public string Name { get; set; }
+
+        public Director()
         {
 
-            [Key]
-            [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-            public int DirectorId { get; set; }
-
-            [Required]
-            [StringLength(40)]
-            public string Name { get; set; }
         }
 
-        public class Movie
+        public Director(int id, string name)
         {
-            [Key]
-            [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-            public int MovieId { get; set; }
-
-            [Required]
-            [StringLength(40)]
-            public string Title { get; set; }
-
-            [Required]
-            public double Revenue { get; set; }
-
-
-            //FK
-            public int DirectorId { get; set; }
-            public virtual Director Director { get; set; }
-
-            public DateTime ReleasedAt { get; set; }
-
-            public double Rating { get; set; }
+            this.DirectorId = id;
+            this.Name = name;
         }
+    }
 
-        public class Role
+    public class Movie
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int MovieId { get; set; }
+
+        [Required]
+        [StringLength(40)]
+        public string Title { get; set; }
+
+        [Required]
+        public double Revenue { get; set; }
+
+
+        //FK
+        public int DirectorId { get; set; }
+        public virtual Director Director { get; set; }
+
+        public DateTime ReleasedAt { get; set; }
+
+        public double Rating { get; set; }
+
+        public Movie()
         {
-            [Key]
-            [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-            public int RoleId { get; set; }
 
-            //FK
-            public int MoveiId { get; set; }
-            public virtual Movie moveie { get; set; }
-
-            //FK
-            public int ActorId { get; set; }
-            public virtual Actor Actor { get; set; }
-
-            public int Rank { get; set; }
-
-            public string CharacterName { get; set; }
         }
 
-        public class Actor
+        public Movie(int id, string title, double rev, int dirId, DateTime relTime, double rating)
         {
-            [Key]
-            [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-            public int ActorId { get; set; }
-
-            public string ActorName { get; set; }
+            this.MovieId = id;
+            this.Title = title;
+            this.Revenue = rev;
+            this.DirectorId = dirId;
+            this.ReleasedAt = relTime;
+            this.Rating = rating;
         }
+    }
+
+    public class Role
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int RoleId { get; set; }
+
+        // FK
+        public int MovieId { get; set; } 
+        public virtual Movie Movie { get; set; } 
+
+        // FK
+        public int ActorId { get; set; }
+        public virtual Actor Actor { get; set; }
+
+        public int Rank { get; set; }
+        public string CharacterName { get; set; }
+
+        public Role() { }
+
+        public Role(int id, int movieId, int actorId, int rank, string name)
+        {
+            this.RoleId = id;
+            this.MovieId = movieId;
+            this.ActorId = actorId;
+            this.Rank = rank;
+            this.CharacterName = name;
+        }
+    }
+
+    public class Actor
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int ActorId { get; set; }
+
+        public string ActorName { get; set; }
+
+        public Actor()
+        {
+        }
+
+        public Actor(int id, string name)
+        {
+            this.ActorId = id;
+            this.ActorName = name;
+        }
+    }
 }
