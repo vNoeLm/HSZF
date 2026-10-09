@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A397B948-C253-41A9-AFD8-7ED2A062EB2D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A397B948-C253-41A9-AFD8-7ED2A062EB2D}|MovieManager\\MovieManager.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 2\\moviemanager\\moviemanager\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A397B948-C253-41A9-AFD8-7ED2A062EB2D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 2\\MovieManager\\MovieManager\\bin\\Debug\\net8.0\\MoviesSaved.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieManager\\bin\\Debug\\net8.0\\MoviesSaved.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A397B948-C253-41A9-AFD8-7ED2A062EB2D}|MovieManager\\MovieManager.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 2\\moviemanager\\moviemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A397B948-C253-41A9-AFD8-7ED2A062EB2D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A397B948-C253-41A9-AFD8-7ED2A062EB2D}|MovieManager\\MovieManager.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 2\\moviemanager\\moviemanager\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A397B948-C253-41A9-AFD8-7ED2A062EB2D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +40,14 @@
               "RelativeDocumentMoniker": "MovieManager\\MovieManager.cs",
               "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 2\\MovieManager\\MovieManager\\MovieManager.cs",
               "RelativeToolTip": "MovieManager\\MovieManager.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAswHUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T07:10:31.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MoviesSaved.json",
               "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 2\\MovieManager\\MovieManager\\bin\\Debug\\net8.0\\MoviesSaved.json",
               "RelativeDocumentMoniker": "MovieManager\\bin\\Debug\\net8.0\\MoviesSaved.json",
@@ -51,12 +55,11 @@
               "RelativeToolTip": "MovieManager\\bin\\Debug\\net8.0\\MoviesSaved.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-18T07:09:44.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T07:09:44.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 2\\MovieManager\\MovieManager\\Movie.cs",
               "RelativeDocumentMoniker": "MovieManager\\Movie.cs",
@@ -69,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 2\\MovieManager\\MovieManager\\Program.cs",
               "RelativeDocumentMoniker": "MovieManager\\Program.cs",
@@ -77,8 +80,7 @@
               "RelativeToolTip": "MovieManager\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T06:17:45.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T06:17:45.625Z"
             }
           ]
         }

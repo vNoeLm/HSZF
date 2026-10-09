@@ -1,0 +1,71 @@
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.csproj.AssemblyReference.cache
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.AssemblyInfoInputs.cache
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.AssemblyInfo.cs
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.sourcelink.json
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.exe
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.deps.json
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.runtimeconfig.json
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.pdb
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Castle.Core.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.Con.58C97167.Up2Date
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\refint\Demo.ConsoleClient.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.pdb
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.genruntimeconfig.cache
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\ref\Demo.ConsoleClient.dll
+C:\Work\University\HSZF\HSZF_2026271\4 week\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.exe
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.deps.json
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.runtimeconfig.json
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.ConsoleClient.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.csproj.AssemblyReference.cache
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.AssemblyInfo.cs
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.Con.58C97167.Up2Date
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\refint\Demo.ConsoleClient.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\Demo.ConsoleClient.genruntimeconfig.cache
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\obj\Debug\net8.0\ref\Demo.ConsoleClient.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.Logic.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.Models.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.Repository.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.Logic.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.Models.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.ConsoleClient\bin\Debug\net8.0\Demo.Repository.pdb

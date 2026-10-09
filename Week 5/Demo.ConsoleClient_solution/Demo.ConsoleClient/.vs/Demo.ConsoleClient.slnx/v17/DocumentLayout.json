@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.repository\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|solutionrelative:demo.repository\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|solutionrelative:demo.repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A276AFC-2BDD-45C0-974A-FBAD360F8CE0}|Demo.Logic\\Demo.Logic.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.logic\\orderbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A276AFC-2BDD-45C0-974A-FBAD360F8CE0}|Demo.Logic\\Demo.Logic.csproj|solutionrelative:demo.logic\\orderbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDC0A9-5327-40C3-BD31-FBDF6A02DCED}|Demo.Tests\\Demo.Tests.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.tests\\orderbuisnesslogictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDDC0A9-5327-40C3-BD31-FBDF6A02DCED}|Demo.Tests\\Demo.Tests.csproj|solutionrelative:demo.tests\\orderbuisnesslogictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDC0A9-5327-40C3-BD31-FBDF6A02DCED}|Demo.Tests\\Demo.Tests.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.tests\\demo.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBDDC0A9-5327-40C3-BD31-FBDF6A02DCED}|Demo.Tests\\Demo.Tests.csproj|solutionrelative:demo.tests\\demo.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.repository\\demo.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|solutionrelative:demo.repository\\demo.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A253CD-F602-DAF1-1515-5702BE92B857}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.consoleclient\\demo.consoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35A253CD-F602-DAF1-1515-5702BE92B857}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\demo.consoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A253CD-F602-DAF1-1515-5702BE92B857}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A253CD-F602-DAF1-1515-5702BE92B857}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|solutionrelative:demo.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|c:\\users\\hallgato\\desktop\\ora\\hszf\\week 5\\demo.consoleclient_solution\\demo.consoleclient\\demo.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CB750E-3BAB-4246-9BC6-A878EEE2783E}|Demo.Repository\\Demo.Repository.csproj|solutionrelative:demo.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Demo.Repository\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\ShopContext.cs",
+              "RelativeToolTip": "Demo.Repository\\ShopContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T07:15:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderBuisnessLogicTest.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Tests\\OrderBuisnessLogicTest.cs",
+              "RelativeDocumentMoniker": "Demo.Tests\\OrderBuisnessLogicTest.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Tests\\OrderBuisnessLogicTest.cs",
+              "RelativeToolTip": "Demo.Tests\\OrderBuisnessLogicTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:14:52.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo.Tests",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Tests\\Demo.Tests.csproj",
+              "RelativeDocumentMoniker": "Demo.Tests\\Demo.Tests.csproj",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Tests\\Demo.Tests.csproj",
+              "RelativeToolTip": "Demo.Tests\\Demo.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-09T06:11:46.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\Demo.Repository.csproj",
+              "RelativeDocumentMoniker": "Demo.Repository\\Demo.Repository.csproj",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\Demo.Repository.csproj",
+              "RelativeToolTip": "Demo.Repository\\Demo.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T06:47:04.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Demo.Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Demo.Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:36:51.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Demo.Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Demo.Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:36:10.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Demo.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Repository\\Repository.cs",
+              "RelativeToolTip": "Demo.Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:33:15.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Logic\\OrderBusinessLogic.cs",
+              "RelativeDocumentMoniker": "Demo.Logic\\OrderBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.Logic\\OrderBusinessLogic.cs",
+              "RelativeToolTip": "Demo.Logic\\OrderBusinessLogic.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:19:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo.ConsoleClient.csproj",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "RelativeToolTip": "Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T06:47:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.ConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Users\\hallgato\\Desktop\\ora\\HSZF\\Week 5\\Demo.ConsoleClient_solution\\Demo.ConsoleClient\\Demo.ConsoleClient\\Program.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:30:04.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

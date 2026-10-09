@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "Title": "Clean Code",
+    "Author": "Robert C. Martin",
+    "PublishedYear": 2008,
+    "IsAvailable": true,
+    "Loans": []
+  },
+  {
+    "Id": 2,
+    "Title": "The Pragmatic Programmer",
+    "Author": "Andrew Hunt",
+    "PublishedYear": 1999,
+    "IsAvailable": false,
+    "Loans": [
+      {
+        "BorrowerName": "Kovacs Anna",
+        "BorrowedAt": "2026-02-01T08:00:00",
+        "ReturnedAt": null
+      },
+      {
+        "BorrowerName": "Nagy Bela",
+        "BorrowedAt": "2025-11-15T09:30:00",
+        "ReturnedAt": "2025-11-29T10:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Title": "Clean Architecture",
+    "Author": "Robert C. Martin",
+    "PublishedYear": 2017,
+    "IsAvailable": true,
+    "Loans": []
+  },
+  {
+    "Id": 4,
+    "Title": "Domain-Driven Design",
+    "Author": "Eric Evans",
+    "PublishedYear": 2003,
+    "IsAvailable": false,
+    "Loans": [
+      {
+        "BorrowerName": "Szabo Csilla",
+        "BorrowedAt": "2026-01-10T12:15:00",
+        "ReturnedAt": null
+      }
+    ]
+  }
+]

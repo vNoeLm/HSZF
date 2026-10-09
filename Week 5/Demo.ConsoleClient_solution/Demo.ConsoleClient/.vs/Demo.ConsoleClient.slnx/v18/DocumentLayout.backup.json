@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\logic\\orderbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\logic\\orderbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\logic\\customerspendingsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\logic\\customerspendingsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|c:\\work\\university\\hszf\\hszf_2026271\\4 week\\demo.consoleclient\\demo.consoleclient\\demo.consoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C960FAD-FA8C-4C2C-A80B-228086C7AC1B}|Demo.ConsoleClient\\Demo.ConsoleClient.csproj|solutionrelative:demo.consoleclient\\demo.consoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Program.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:55:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Logic\\OrderBusinessLogic.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Logic\\OrderBusinessLogic.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Logic\\OrderBusinessLogic.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Logic\\OrderBusinessLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:54:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerSpendingSummary.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Logic\\CustomerSpendingSummary.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Logic\\CustomerSpendingSummary.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Logic\\CustomerSpendingSummary.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Logic\\CustomerSpendingSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:54:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:27:03.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Models\\ShopContext.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Models\\ShopContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:25:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Models\\Order.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Models\\Order.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:25:29.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Models\\Customer.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Models\\Customer.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:25:28.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Demo.ConsoleClient\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:23:54.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Demo.ConsoleClient",
+              "DocumentMoniker": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "RelativeDocumentMoniker": "Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "ToolTip": "C:\\Work\\University\\HSZF\\HSZF_2026271\\4 week\\Demo.ConsoleClient\\Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "RelativeToolTip": "Demo.ConsoleClient\\Demo.ConsoleClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T15:03:51.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

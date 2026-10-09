@@ -1,0 +1,17 @@
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\bin\Debug\net8.0\Demo.Logic.deps.json
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\bin\Debug\net8.0\Demo.Logic.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\bin\Debug\net8.0\Demo.Logic.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\bin\Debug\net8.0\Demo.Models.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\bin\Debug\net8.0\Demo.Repository.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\bin\Debug\net8.0\Demo.Models.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\bin\Debug\net8.0\Demo.Repository.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.csproj.AssemblyReference.cache
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.AssemblyInfoInputs.cache
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.AssemblyInfo.cs
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.csproj.Up2Date
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\refint\Demo.Logic.dll
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\Demo.Logic.pdb
+C:\Users\hallgato\Downloads\Demo.ConsoleClient\Demo.ConsoleClient\Demo.Logic\obj\Debug\net8.0\ref\Demo.Logic.dll
